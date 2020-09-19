@@ -1,0 +1,1 @@
+module.exports=c=>c=='🎱'?Math.random()<0.5:null
