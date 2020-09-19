@@ -1,0 +1,1 @@
+module.exports={get'🎱'(){return Math.random()<0.5}}
