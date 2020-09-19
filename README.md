@@ -7,6 +7,5 @@ npm install https://github.com/1UPNuke/8ball
 ## Usage example
 ```js
 const ask = require('8ball');
-console.log(ask['🎱']);
-//true or false
+ask['🎱']; // -> true or false
 ```
